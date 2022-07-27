@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "621855542481",
+    "project_id": "time-tracker-andreab",
+    "storage_bucket": "time-tracker-andreab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621855542481:android:c198c3cf6767bfe28889f0",
+        "android_client_info": {
+          "package_name": "com.rascaldesigns.time_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621855542481-svdg20qaboio4sfjiuumclau4bmqcu1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTwiO_fY5cwEGKL5Zw1fvLkNqXh-Z6028"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621855542481-svdg20qaboio4sfjiuumclau4bmqcu1j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "621855542481-kev6age5nifhtdiucgilrq6717pm05c4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rascal-designs.timeTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
